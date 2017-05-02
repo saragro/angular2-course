@@ -1,9 +1,44 @@
-﻿<ul class="list-group">
-    <li *ngFor="let item of clusters"
-        class="list-group-item">
-      
-        {{item.header}}
-        <span class="badge">{{item.id}}</span>
-    </li>
-</ul>
+﻿<p-tabView>
+    <p-tabPanel header="votes" >
+        <!--{{clusters | json}}-->
+        <ul>
+            <li *ngFor="let cluster of clusters">
+                <div class="clusters-wrapper">
+                    <div class="stats-container">
+                        <div class="stats">
+                            <span><strong>{{cluster.rank}}</strong></span>
+                            <div>votes</div>
+                        </div>
+                        <div class="stats">
+                            <span><strong>{{cluster.messagesCount}}</strong></span>
+                            <div>answers</div>
+                        </div>
+                    </div>
+
+                    <div class="summary">
+                        <h3><a href="TODO" class="cluster-header-hyperlink">{{cluster.header}}</a></h3>
+                        <div class="excerpt">
+                            {{cluster.excerpt}}
+                        </div>
+                        <div class="question-info">
+                            <div class="user-action-time">
+                                asked <span [title]="cluster.createDate">TODO 1 min ago</span>
+                            </div>
+                            <div class="user-details">
+                                by {{cluster.createUser}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </p-tabPanel>
+    <p-tabPanel header="popular this week">
+        TODO
+
+    </p-tabPanel>
+    <p-tabPanel header="popular this month">
+        TODO
+    </p-tabPanel>
+</p-tabView>
 

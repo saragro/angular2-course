@@ -1,0 +1,54 @@
+﻿[
+  {
+    "id": "1",
+    "header": "Can I improve my chess? Or am I too old?",
+    "excerpt": "I am 25 years old. I have been interested in playing chess since my school days but I never played seriously. One year back I realized that I want to become good chess player and I started. Most of ...",
+    "createDate": "10/01/2016 08:30:00",
+    "updateDate": "12/01/2016 15:12:10",
+    "createUser": "max wine",
+    "rank": "-1",
+    "messagesCount": "3"
+  },
+  {
+    "id": "2",
+    "header": "What is the earliest possible age to start teaching children how to play chess?",
+    "excerpt": "My daughter is 4 years old, and she plays checkers very well for her age. She asked me if she can learn how to play chess too. So I am interested in what is the best age to start teaching her. Is it ...",
+    "createDate": "18/09/2016 20:22:34",
+    "updateDate": "27/09/2016 22:12:03",
+    "createUser": "michal",
+    "rank": "42",
+    "messagesCount": "18"
+  },
+  {
+    "id": "3",
+    "header": "Why is gold golden?",
+    "excerpt": "Bulk gold has a very characteristic warm yellow shine to it, whereas almost all other metals have a grey or silvery color. Where does this come from? I have heard that this property arises from ...",
+    "createDate": "18/04/2015 20:07:34",
+    "updateDate": "22/01/2017 06:00:19",
+    "createUser": "david",
+    "rank": "11",
+    "messagesCount": "2"
+  },
+  {
+    "id": "4",
+    "header": "What are the best conditions for basil?",
+    "excerpt": "What are the best conditions for basil to grow? I live in the UK and it never seems to last that long. Recently I've been putting the plants in the shade and drenching them in water, which seems to be ...",
+    "createDate": "23/07/2016 21:10:10",
+    "updateDate": "01/09/2016 07:00:02",
+    "createUser": "tammiK",
+    "rank": "24",
+    "messagesCount": "8"
+  },
+  {
+    "id": "5",
+    "header": "A short, brutal riddle",
+    "excerpt": "Left alone, I'm a word with five letters. I'm honest and fair, I'll admit. Rearranged, I'm of no use to trains. Again, and I'm an overt place, warm and well lit. What am I?",
+    "createDate": "23/02/2017 05:14:00",
+    "updateDate": "01/04/2017 07:00:05",
+    "createUser": "dan",
+    "rank": "113",
+    "messagesCount": "17"
+  }
+]
+
+

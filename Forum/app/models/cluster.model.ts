@@ -6,4 +6,5 @@
     createUser: string;
     rank: number;
     messagesCount: number;
+    excerpt: string;
 }
